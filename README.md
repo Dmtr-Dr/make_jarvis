@@ -20,6 +20,8 @@ Further Enhancements:
 
 # Что используется:
 
+WakeWord: PicoVoice
+
 TTS: Vosk
 
 LLM: mixtral_8x22b
